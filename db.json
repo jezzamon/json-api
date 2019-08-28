@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "Another new stream",
+      "description": "another description",
+      "userId": "1044248123376687731221",
+      "id": 5
+    },
+    {
+      "title": "aug 27 stream",
+      "description": "description galore",
+      "userId": "104424812337668773723",
+      "id": 6
+    },
+    {
+      "title": "unexpected",
+      "description": "didnt expect that",
+      "userId": "104424812337668773723",
+      "id": 7
+    },
+    {
+      "title": "New stream",
+      "description": "here is a desc",
+      "userId": "104424812337668773723",
+      "id": 8
+    },
+    {
+      "title": "tetet",
+      "description": "tetete",
+      "userId": "104424812337668773723",
+      "id": 9
+    },
+    {
+      "title": "Me doing my thing",
+      "description": "boom! boom 22323",
+      "userId": "104424812337668773723",
+      "id": 10
+    }
+  ]
+}
